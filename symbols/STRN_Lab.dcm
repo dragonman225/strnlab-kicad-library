@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDCL015
+D 5.5 V, 150 mA, Ultra Low Dropout Linear Regulator, SOT-23-5
+K linear regulator ldo adjustable positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/a7/15/cb/d0/06/9d/4f/75/DM00037343.pdf/files/DM00037343.pdf/jcr:content/translations/en.DM00037343.pdf
+$ENDCMP
+#
+$CMP LMV431AIM5X
+D LMV431AIM5X, NS, SOT23-5
+$ENDCMP
+#
+$CMP LP2951CN
+D 30 V, 100 mA, 380mV Low Dropout Linear Regulator, DIP-8
+K linear regulator ldo adjustable positive
+F https://www.jameco.com/Jameco/Products/ProdDS/1323821.pdf
+$ENDCMP
+#
+$CMP MMBT2222A
+D NPN, 40V, 1A, hfe=100-300, SOT-23
+$ENDCMP
+#
+$CMP MP1542
+D 700KHz/1.3MHz Boost Converter With A 2A Switch
+K mp1542 switching regulator
+F https://www.monolithicpower.com/pub/media/document/MP1542_r1.5.pdf
+$ENDCMP
+#
+$CMP PCM2702E
+D 16-Bit, 48-kHz Sampling, USB Audio Stereo Digital-to-Analog Converter, SSOP-28
+K pcm pcm2702 audio usb dac 2ch 16bit 48kHz
+F http://www.ti.com/lit/ds/sbas142a/sbas142a.pdf
+$ENDCMP
+#
+$CMP PCM2704
+D 16-Bit, 48-kHz Sampling, USB Audio Stereo Digital-to-Analog Converter, HW Control, SSOP-28
+K pcm pcm2704 audio usb dac 2ch 16bit 48kHz
+F http://www.ti.com/lit/ds/symlink/pcm2706.pdf
+$ENDCMP
+#
+$CMP TL431BCLP
+D TL431BCLP, ONSEMI, TO-92
+$ENDCMP
+#
+$CMP TPA6120A2
+D Hi-Fi Headphone Amplifier
+K tpa tpa6120 headphone amplifier
+F http://www.ti.com/lit/ds/symlink/tpa6120a2.pdf
+$ENDCMP
+#
+$CMP ZME0505S
+D Unregulated Single Ouput Isolated DC/DC Converter
+K isolated DC/DC Converter module
+F http://www.zhongpower.com/Upload/Files/20170809/b2436bcf6817449ab75bae9fae697306.pdf
+$ENDCMP
+#
+#End Doc Library
