@@ -4,14 +4,18 @@ _The following device list will keep growing !_
 
 ### Symbols
 
+* AudioJack4_PJ327A
+* G6K-2-Pin8CoilNegative
 * LDCL015
 * LMV431AIM5X
 * LP2951CN
+* LT3471
 * MMBT2222A
 * MP1542
 * PCM1796
 * PCM2702E
 * PCM2704
+* PE68624
 * TL431BCLP
 * TPA6120A2
 * TPS71733
@@ -20,4 +24,10 @@ _The following device list will keep growing !_
 
 ### Footprints
 
-* TDK SPM6530
+##### Passive
+* PE68624
+* TDK_SPM6530 (Normal + HandSolder)
+
+##### Module
+* PJ327A
+* Multiple Custom-designed Discrete Regulators

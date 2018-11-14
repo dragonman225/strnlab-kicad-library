@@ -16,6 +16,11 @@ K linear regulator ldo adjustable positive
 F https://www.jameco.com/Jameco/Products/ProdDS/1323821.pdf
 $ENDCMP
 #
+$CMP LT3471
+D Dual 1.3A, 1.2MHz Boost/Inverteing Switching Regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3471fb.pdf
+$ENDCMP
+#
 $CMP MMBT2222A
 D NPN, 40V, 1A, hfe=100-300, SOT-23
 $ENDCMP
