@@ -4,7 +4,7 @@ _The following device list will keep growing !_
 
 ### Symbols
 
-* AudioJack4_PJ327A
+* AudioJack3_PJ327A
 * G6K-2-Pin8CoilNegative
 * LDCL015
 * LMV431AIM5X
@@ -31,3 +31,5 @@ _The following device list will keep growing !_
 ##### Module
 * PJ327A
 * Multiple Custom-designed Discrete Regulators
+* DIP-20_W15.24mm_Socket
+* Via_0.8mm: for via stitching
