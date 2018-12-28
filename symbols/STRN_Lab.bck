@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADS127L01
+D 24-Bit, 512kSPS, Delta-Sigma ADC
+$ENDCMP
+#
 $CMP LDCL015
 D 5.5 V, 150 mA, Ultra Low Dropout Linear Regulator, SOT-23-5
 K linear regulator ldo adjustable positive
@@ -41,6 +45,10 @@ $CMP PCM2704
 D 16-Bit, 48-kHz Sampling, USB Audio Stereo Digital-to-Analog Converter, HW Control, SSOP-28
 K pcm pcm2704 audio usb dac 2ch 16bit 48kHz
 F http://www.ti.com/lit/ds/symlink/pcm2706.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G175
+D Single D-Type Flip-Flop With Asynchronous Clear
 $ENDCMP
 #
 $CMP THS4551DGK

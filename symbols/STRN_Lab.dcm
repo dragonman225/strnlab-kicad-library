@@ -47,6 +47,10 @@ K pcm pcm2704 audio usb dac 2ch 16bit 48kHz
 F http://www.ti.com/lit/ds/symlink/pcm2706.pdf
 $ENDCMP
 #
+$CMP SN74LVC1G175
+D Single D-Type Flip-Flop With Asynchronous Clear
+$ENDCMP
+#
 $CMP THS4551DGK
 D Low Noise, Precision, 150MHz, Fully Differential Amplifier
 $ENDCMP

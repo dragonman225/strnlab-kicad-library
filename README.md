@@ -30,7 +30,10 @@ _The following device list will keep growing !_
   * MMBT2222A
 * Connectors & Misc
   * G6K-2-Pin8CoilNegative
+  * NA5W-K
   * AudioJack3_PJ327A
+* Logic
+  * SN74LVC1G175
 
 ### Footprints
 
@@ -40,6 +43,7 @@ _The following device list will keep growing !_
 
 ##### Module
 * PJ327A
+* NA5W-K
 * Multiple Custom-designed Discrete Regulators
 * DIP-20_W15.24mm_Socket
 * Via_0.8mm: for via stitching
