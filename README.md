@@ -25,6 +25,7 @@ _The following device list will keep growing !_
 * Voltage References
   * LMV431AIM5X
   * TL431BCLP
+  * REF6025DGK
 * Passive & Discrete
   * PE68624
   * MMBT2222A
@@ -34,6 +35,7 @@ _The following device list will keep growing !_
   * AudioJack3_PJ327A
 * Logic
   * SN74LVC1G175
+  * SN74LVC1G04
 
 ### Footprints
 

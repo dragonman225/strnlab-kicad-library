@@ -47,6 +47,14 @@ K pcm pcm2704 audio usb dac 2ch 16bit 48kHz
 F http://www.ti.com/lit/ds/symlink/pcm2706.pdf
 $ENDCMP
 #
+$CMP REF6025DGK
+D 2.5V 0.05% 4mA Low Noise Precision Voltage Reference, VSSOP-8
+$ENDCMP
+#
+$CMP SN74LVC1G04
+D Single Inverter Gate
+$ENDCMP
+#
 $CMP SN74LVC1G175
 D Single D-Type Flip-Flop With Asynchronous Clear
 $ENDCMP
