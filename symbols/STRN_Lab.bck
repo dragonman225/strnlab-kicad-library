@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADG409
+D Dual 4-to-1 LC^2MOS
+$ENDCMP
+#
 $CMP ADS127L01
 D 24-Bit, 512kSPS, Delta-Sigma ADC
 $ENDCMP

@@ -32,10 +32,12 @@ _The following device list will keep growing !_
 * Connectors & Misc
   * G6K-2-Pin8CoilNegative
   * NA5W-K
+  * NA5W-K_Reverse
   * AudioJack3_PJ327A
 * Logic
   * SN74LVC1G175
   * SN74LVC1G04
+  * ADG409
 
 ### Footprints
 
@@ -48,4 +50,7 @@ _The following device list will keep growing !_
 * NA5W-K
 * Multiple Custom-designed Discrete Regulators
 * DIP-20_W15.24mm_Socket
+* Crystal_SMD_5032-4Pin_5.0x3.2mm_HandSoldering
+* LQFP-32_5x5mm_P0.5mm_HandSoldering
+* SSOP-16_4.4x5.2mm_P0.65mm_HandSoldering
 * Via_0.8mm: for via stitching
