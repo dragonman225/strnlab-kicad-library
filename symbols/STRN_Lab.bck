@@ -1,7 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP ADG409
-D Dual 4-to-1 LC^2MOS
+D Dual 4-to-1 LC2MOS 44V Analog Multiplexers
+F https://www.analog.com/media/en/technical-documentation/data-sheets/adg408_409.pdf
 $ENDCMP
 #
 $CMP ADS127L01
@@ -22,6 +23,10 @@ $CMP LP2951CN
 D 30 V, 100 mA, 380mV Low Dropout Linear Regulator, DIP-8
 K linear regulator ldo adjustable positive
 F https://www.jameco.com/Jameco/Products/ProdDS/1323821.pdf
+$ENDCMP
+#
+$CMP LT1763-S8
+D 500mA, Low Noise, LDO
 $ENDCMP
 #
 $CMP LT3471

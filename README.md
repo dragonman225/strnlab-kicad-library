@@ -16,6 +16,7 @@ _The following device list will keep growing !_
   * TPS71733
   * LP2951CN
   * LDCL015
+  * LT1763-S8
 * Switching Regulators
   * MP1542
   * LT3471
@@ -48,7 +49,7 @@ _The following device list will keep growing !_
 ##### Module
 * PJ327A
 * NA5W-K
-* Multiple Custom-designed Discrete Regulators
+* VNSP Series Discrete Regulators
 * DIP-20_W15.24mm_Socket
 * Crystal_SMD_5032-4Pin_5.0x3.2mm_HandSoldering
 * LQFP-32_5x5mm_P0.5mm_HandSoldering

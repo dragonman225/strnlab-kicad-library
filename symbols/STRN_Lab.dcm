@@ -25,6 +25,10 @@ K linear regulator ldo adjustable positive
 F https://www.jameco.com/Jameco/Products/ProdDS/1323821.pdf
 $ENDCMP
 #
+$CMP LT1763-S8
+D 500mA, Low Noise, LDO
+$ENDCMP
+#
 $CMP LT3471
 D Dual 1.3A, 1.2MHz Boost/Inverteing Switching Regulator
 F https://www.analog.com/media/en/technical-documentation/data-sheets/3471fb.pdf
